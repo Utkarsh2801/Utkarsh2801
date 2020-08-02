@@ -35,10 +35,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 
 <a href="https://github.com/utkarsh2801">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanigupta19&theme=dracula&line_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh2801&theme=dracula&line_langs_below=1" />
 </a>
 <a href="https://github.com/utkarsh2801">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanigupta19&show_icons=true&theme=dracula&line_height=27" alt="Shivani's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh2801&show_icons=true&theme=dracula&line_height=27" alt="Utkarsh's github stats"/>
 </a>
 
 ### Show some ❤️ by starring some of the repositories!
