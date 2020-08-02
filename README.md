@@ -9,7 +9,7 @@
   <a href="https://github.com/utkarsh2801">
   <img align="left" alt="Utkarsh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/utkarsh_tripathi_28//">
+<a href="https://www.instagram.com/utkarsh_tripathi_28/">
   <img align="left" alt="Utkarsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
   
