@@ -16,16 +16,6 @@
   
   <br/>
 <br/>
-
-
-- 🔭 I’m currently working on some cool projects.
-- 🌱 I’m currently learning React Native, Docker
-- 🤔 I’m looking for help with Documentation
-- 💬 Ask me about Node js, React Js, Javascript
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/utkarsh-tripathi-89b789145/)
-- 😄 Pronouns: He/His
-
-
 **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
